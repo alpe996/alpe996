@@ -1,9 +1,12 @@
 ### Alessandro Pedrani
 
-AI Research Engineer @ [Bending Spoons](https://bendingspoons.com) · Turin, Italy
-Previously Research Scientist @ Amazon Alexa AI / AGI
-MSc in Stochastics & Data Science (Università di Torino, 110/110 cum laude, Best Graduate 2020)
+---
+- [2024 - Current] AI Research Engineer @ [Bending Spoons](https://bendingspoons.com) · Turin, Italy 🇮🇹
+- [2020 - 2024] Research Scientist @ Amazon Alexa AI / AGI
+- [2018 - 2020] MSc in Stochastics & Data Science: Università di Torino, 110/110 cum laude & special mention, Best Graduate 2020
+- [2015 - 2018] BSc in Mathematics: Università di Torino, 110/110 cum laude
 
+---
 I work on **AI and machine learning applied to products used by tens of millions of users**.
 I enjoy the full stack of building intelligent products — from research and modelling
 to the software engineering that makes them actually ship.
@@ -36,16 +39,16 @@ Things I like working on: **recommendation systems**, **search**, **personalizat
 
 #### Stack
 
-**Languages** — Python · R · SQL · Bash · TypeScript · C++ · LaTeX
-**ML / DL frameworks** — PyTorch · PyTorch Lightning · MXNet · TensorFlow · JAX · scikit-learn · XGBoost · LightGBM
-**LLMs & NLP** — HuggingFace (Transformers, Datasets, PEFT, TRL, Accelerate) · vLLM · llama.cpp · LangChain · LlamaIndex · spaCy · NLTK · sentence-transformers · OpenAI / Anthropic / Cohere APIs
-**Recommenders & Search** — implicit · LightFM · RecBole · Faiss · ScaNN · Annoy · Elasticsearch · OpenSearch · Qdrant · Pinecone
-**Data & analytics** — Pandas · Polars · NumPy · SciPy · Dask · PySpark · DuckDB · Arrow · Jupyter
-**Experimentation & MLOps** — MLflow · Weights & Biases · DVC · Hydra · Optuna · Ray (Tune / Serve / Train) · BentoML · ONNX · TorchServe
-**Cloud & infra** — AWS (SageMaker, S3, EC2, Lambda, ECR, Batch) · GCP · Docker · Kubernetes · Terraform · Helm
-**Pipelines & orchestration** — Airflow · Prefect · Dagster · Kafka
-**Video / multimodal** — FFmpeg · OpenCV · torchvision · torchaudio · diffusers
-**Dev tooling** — Git · GitHub Actions · pre-commit · pytest · Ruff · Black · mypy · Poetry · uv
+- **Languages** — Python · R · SQL · Bash · TypeScript · C++ · LaTeX
+- **ML / DL frameworks** — PyTorch · PyTorch Lightning · MXNet · TensorFlow · JAX · scikit-learn · XGBoost · LightGBM
+- **LLMs & NLP** — HuggingFace (Transformers, Datasets, PEFT, TRL, Accelerate) · vLLM · llama.cpp · LangChain · LlamaIndex · spaCy · NLTK · sentence-transformers · OpenAI / Anthropic / Cohere APIs
+- **Recommenders & Search** — implicit · LightFM · RecBole · Faiss · ScaNN · Annoy · Elasticsearch · OpenSearch · Qdrant · Pinecone
+- **Data & analytics** — Pandas · Polars · NumPy · SciPy · Dask · PySpark · DuckDB · Arrow · Jupyter
+- **Experimentation & MLOps** — MLflow · Weights & Biases · DVC · Hydra · Optuna · Ray (Tune / Serve / Train) · BentoML · ONNX · TorchServe
+- **Cloud & infra** — AWS (SageMaker, S3, EC2, Lambda, ECR, Batch) · GCP · Docker · Kubernetes · Terraform · Helm
+- **Pipelines & orchestration** — Airflow · Prefect · Dagster · Kafka
+- **Video / multimodal** — FFmpeg · OpenCV · torchvision · torchaudio · diffusers
+- **Dev tooling** — Git · GitHub Actions · pre-commit · pytest · Ruff · Black · mypy · Poetry · uv
 
 #### Contact
 [LinkedIn](https://www.linkedin.com/in/alessandro-pedrani-b8689418b/)
