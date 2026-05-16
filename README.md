@@ -1,18 +1,51 @@
-<h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">A passionate AI Researcher from Italy</h3>
+### Alessandro Pedrani
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpe996&label=Profile%20views&color=0e75b6&style=flat" alt="alpe996" /> </p>
+AI Research Engineer @ [Bending Spoons](https://bendingspoons.com) · Turin, Italy
+Previously Research Scientist @ Amazon Alexa AI / AGI
+MSc in Stochastics & Data Science (Università di Torino, 110/110 cum laude, Best Graduate 2020)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpe996" alt="alpe996" /></a> </p>
+I work on **AI and machine learning applied to products used by tens of millions of users**.
+I enjoy the full stack of building intelligent products — from research and modelling
+to the software engineering that makes them actually ship.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-aless.pedrani@gmail.com
-</p>
+Things I like working on: **recommendation systems**, **search**, **personalization**,
+**classic NLP and LLMs**, **video processing**, and **software engineering** more broadly.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpe996&show_icons=true&locale=en&layout=compact" alt="alpe996" /></p>
+#### Research interests
+- Recommendation systems · event-based social networks · ranking & retrieval
+- Search & information retrieval
+- Personalization & user modelling
+- Classic NLP (NER, classification, sequence labelling, spoken language understanding)
+- Large language models (pre-training, SFT, RAG, RLHF, evaluation)
+- Knowledge editing of neural networks
+- Perspectivism & subjectivity in NLP (irony, toxicity, annotator disagreement)
+- AI for video processing
+- Efficient training on redundant / skewed industrial data
+- A/B testing & experimentation frameworks
+- ML systems & MLOps
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpe996&show_icons=true&locale=en" alt="alpe996" /></p>
+#### Selected publications
+- **A Survey on Knowledge Editing of Neural Networks** — Mazzia, *Pedrani*, Caciolai, Rottmann. [arXiv:2310.19704](https://arxiv.org/abs/2310.19704)
+- **Perspectivist approaches to NLP: a survey** — *Language Resources and Evaluation*, 2024. [Springer](https://link.springer.com/article/10.1007/s10579-024-09766-4)
+- **MultiPICo: Multilingual Perspectivist Irony Corpus** — Amazon Science, 2024. [link](https://www.amazon.science/publications/multipico-multilingual-perspectivist-irony-corpus)
+- **EPIC: Multi-perspective annotation of a corpus of irony** — ACL 2023. [link](https://www.amazon.science/publications/epic-multi-perspective-annotation-of-a-corpus-of-irony)
+- **Mitigating the burden of redundant datasets via batch-wise unique samples** — Amazon Science. [link](https://www.amazon.science/publications/mitigating-the-burden-of-redundant-datasets-via-batch-wise-unique-samples-and-frequency-aware-losses)
+- **Regression-free model updates for spoken language understanding** — Amazon Science. [link](https://www.amazon.science/publications/regression-free-model-updates-for-spoken-language-understanding)
+
+#### Stack
+
+**Languages** — Python · R · SQL · Bash · TypeScript · C++ · LaTeX
+**ML / DL frameworks** — PyTorch · PyTorch Lightning · MXNet · TensorFlow · JAX · scikit-learn · XGBoost · LightGBM
+**LLMs & NLP** — HuggingFace (Transformers, Datasets, PEFT, TRL, Accelerate) · vLLM · llama.cpp · LangChain · LlamaIndex · spaCy · NLTK · sentence-transformers · OpenAI / Anthropic / Cohere APIs
+**Recommenders & Search** — implicit · LightFM · RecBole · Faiss · ScaNN · Annoy · Elasticsearch · OpenSearch · Qdrant · Pinecone
+**Data & analytics** — Pandas · Polars · NumPy · SciPy · Dask · PySpark · DuckDB · Arrow · Jupyter
+**Experimentation & MLOps** — MLflow · Weights & Biases · DVC · Hydra · Optuna · Ray (Tune / Serve / Train) · BentoML · ONNX · TorchServe
+**Cloud & infra** — AWS (SageMaker, S3, EC2, Lambda, ECR, Batch) · GCP · Docker · Kubernetes · Terraform · Helm
+**Pipelines & orchestration** — Airflow · Prefect · Dagster · Kafka
+**Video / multimodal** — FFmpeg · OpenCV · torchvision · torchaudio · diffusers
+**Dev tooling** — Git · GitHub Actions · pre-commit · pytest · Ruff · Black · mypy · Poetry · uv
+
+#### Contact
+[LinkedIn](https://www.linkedin.com/in/alessandro-pedrani-b8689418b/)
